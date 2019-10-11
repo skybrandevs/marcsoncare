@@ -1,0 +1,755 @@
+ @font-face {
+    font-family:CerebriSans-Boldimport;
+    src:url("fonts/CerebriSans-Bold.ttf");
+  }
+
+
+  @font-face {
+    font-family:CerebriSans-Lightimport;
+    src:url("fonts/CerebriSans-Light.ttf");
+  }
+
+.h3-top{
+
+    font-family:CerebriSans-Boldimport;
+    color:#68E79D;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 70px;
+    font-size: 60px;
+    margin-top: 200px;
+
+
+}
+
+
+
+.h3-top-2{
+
+    font-family:CerebriSans-Boldimport;
+    color:#68E79D;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 70px;
+    font-size: 38px;
+    margin-top: 200px;
+    text-align: center;
+
+
+}
+
+
+
+.h3-top-3{
+
+    font-family:CerebriSans-Boldimport;
+    color:#68E79D;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 70px;
+    font-size: 32px;
+    margin-top: 100px;
+    text-align: center;
+
+
+}
+
+
+.bg-light{
+
+    box-shadow: 0px 6px 6px transparent !important; 
+
+}
+
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+.why{
+
+    font-family:CerebriSans-Boldimport;
+    color:#68E79D;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 70px;
+    font-size: 35px;
+    margin-top: 150px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+
+.challenge{
+    font-family:CerebriSans-Boldimport;
+    Color:#000000;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 44px;
+    text-align:center;  
+    padding-top: 25px;
+}
+
+
+.white-smoke{
+    background-color:whitesmoke;
+}
+
+
+p{
+    font-family:CerebriSans-Lightimport;
+    color: #636363;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+
+.p-2{
+
+    font-family:CerebriSans-Lightimport;
+    color: #636363;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    text-align: center;
+
+}
+
+.p-4{
+    text-align:center;
+    font-family:CerebriSans-Lightimport;
+    color: #636363;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+.p-5{
+    text-align:center;
+    font-family:CerebriSans-Lightimport;
+    color:white;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+
+
+.subscribe{
+
+
+    font-family:CerebriSans-Boldimport;
+    Color:#252525;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 38px;
+    text-align:left;
+    margin-top: 70px;
+    text-align: center;
+
+}
+
+.svg{
+
+margin-top: 100px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+
+.img-top{
+
+margin-top: 70px;
+margin-bottom: 70px;
+
+}
+
+
+.block-color{
+    background-color: #F8F8F3;
+    margin-top: 100px !important;
+    height:fit-content;
+    padding: 20px 20px 20px 20px;
+}
+
+.email{
+
+width: 70%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 70px;
+border-left: transparent !important;
+border-right: transparent !important;
+border-top: transparent !important;
+border: solid 2px #68E79D;
+height: 55px;
+outline: transparent !important;
+
+
+}
+
+
+
+
+.email-2{
+
+    width: 80%;
+    margin-top: 70px;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-top: transparent !important;
+    border: solid 2px #68E79D;
+    height: 55px;
+    outline: transparent !important;
+    
+    
+    }
+
+
+input{
+
+padding-left: 20px;
+font-family:CerebriSans-Lightimport;
+font-size: 13px;
+font-weight: 500;
+line-height: 25px;
+
+}
+
+.btn-marcson{
+
+    background-color: #252525;
+    border: transparent;
+    height: 70px;
+    width: 150px;
+    color: white;
+    font-family:CerebriSans-Lightimport;
+    display: block;
+    margin-left:auto;
+    margin-right:auto; 
+
+}
+
+
+.btn-marcson-call{
+
+    background-color: #252525;
+    border: transparent;
+    height: 70px;
+    width:80%;
+    color: white;
+    font-family:CerebriSans-Lightimport;
+ 
+
+}
+
+
+
+.img-bottom{
+
+margin-bottom: 190px;
+
+}
+
+.mrg-top-push{
+
+margin-top: 100px !important;
+
+}
+
+
+.btn-marcson:hover{
+
+ background-color: #68E79D;
+
+}
+
+
+.btn-marcson-call:hover{
+
+    background-color: #68E79D;
+   
+   }
+   
+
+
+
+.btn-marcson-2{
+
+    background-color: #252525;
+    border: transparent;
+    height: 70px;
+    width: 150px;
+    color: white;
+    font-family:CerebriSans-Lightimport;
+   
+
+}
+
+
+.btn-marcson-2:hover{
+
+    background-color:#68E79D;
+    border: transparent;
+    height: 70px;
+    width: 150px;
+    color: white;
+    font-family:CerebriSans-Lightimport;
+   
+
+}
+
+
+.footer-color{
+
+background-color:#C5E1D8;
+
+
+}
+
+
+
+.number{
+
+
+    font-family:CerebriSans-Boldimport;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+
+.address{
+
+    font-family:CerebriSans-Lightimport;
+    font-style: normal;
+    font-weight:bolder;
+    font-size: 16px;
+    line-height: 26px;
+    color:#636363;
+    text-align: center;
+    margin-top: 35px;
+    font-style: normal;
+
+
+}
+
+
+.sub-footer{
+
+font-family: CerebriSans-Boldimport;
+margin-top: 100px;
+text-align:center;
+
+
+}
+
+
+.li-2 {
+
+list-style: none !important;
+font-family:CerebriSans-Boldimport;
+font-style: normal;
+text-align:center !important;
+color: #252525;
+margin-top:30px;
+font-weight: lighter;
+line-height: 35px;
+
+
+}
+
+a{
+    text-decoration: none !important;
+}
+
+
+.li-2:hover{
+
+    color:#636363;
+    
+
+}
+
+.bottom{
+    margin-bottom: 100px;
+}
+
+
+.logo{
+
+width: 70px;
+
+}
+
+.nav-item{
+
+margin-left: 30px;
+
+}
+
+
+.green-bac{
+
+background-color: #51B57B ;
+height: 50vh;
+
+
+}
+
+
+.freq{
+
+    font-family:CerebriSans-Boldimport !important;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;   
+    
+    margin-top: 150px;
+    font-style: normal;
+
+}
+
+
+.nav-link{
+
+    font-family:CerebriSans-Lightimport !important;
+    font-weight: bolder !important;
+    color:#51B57B !important;
+    border-bottom: 2px solid transparent !important;
+}
+
+.nav-link:hover{
+    font-family:CerebriSans-Lightimport !important;
+    font-weight: bolder !important;
+color: #636363 !important;
+border-bottom: 2px solid #636363 !important;
+
+
+}
+
+
+
+/* at media query mobile phone */
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+    .btn-marcson-call{
+
+        background-color: #252525;
+        border: transparent;
+        height: 70px;
+        width:100%;
+        color: white;
+        font-family:CerebriSans-Lightimport;
+     
+    
+    }
+    
+
+
+
+.email-2{
+
+    width: 100%;
+    margin-top: 70px;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    border-top: transparent !important;
+    border: solid 2px #68E79D;
+    height: 55px;
+    outline: transparent !important;
+    
+    
+    }
+
+
+    .logo{
+
+        width: 50px;
+        
+        }
+        
+        .nav-item{
+        
+        margin-left:auto;
+        }
+
+        .h3-top{
+
+            font-family:CerebriSans-Boldimport;
+            color:#68E79D;
+            font-weight: 700;
+            font-style: normal;
+            line-height: 50px;
+            font-size: 40px;
+            margin-top: 100px;
+            text-align: center;
+        
+        }
+
+        p{
+            text-align: center;
+        }
+        
+
+        .btn-marcson-2{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+        .white-smoke{
+            background-color: white !important;
+        }
+
+
+.navbar-toggler{
+    border: transparent !important;
+    outline: none !important;
+}
+
+.email{
+    width: 100% !important;
+}
+
+
+
+
+
+
+.baked-twist {
+  
+    display:flex;
+    flex-direction: column-reverse;
+
+ }
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+
+
+
+.navbar-toggler{
+    border: transparent !important;
+    outline: none !important;
+}
+
+
+    .nav-item{
+        
+        margin-left:auto;
+        }
+
+      
+        .h3-top{
+
+            font-family:CerebriSans-Boldimport;
+            color:#68E79D;
+            font-weight: 700;
+            font-style: normal;
+            line-height: 50px;
+            font-size: 40px;
+            margin-top: 100px;
+            text-align: left;
+        
+        
+        }
+
+.email{
+    width: 100%;
+}
+
+
+}
+
+
+@media only screen and (min-width: 568px) and (max-width: 812px)  {
+
+
+
+    .navbar-toggler{
+        border: transparent !important;
+        outline: none !important;
+    }
+
+
+    .white-smoke{
+        background-color: white !important;
+    }
+
+
+
+
+    .logo{
+
+        width: 50px;
+        
+        }
+        
+        .nav-item{
+        
+        margin-left:auto;
+        }
+
+
+
+        .h3-top{
+
+            font-family:CerebriSans-Boldimport;
+            color:#68E79D;
+            font-weight: 700;
+            font-style: normal;
+            line-height: 40px;
+            font-size: 35px;
+            margin-top: 100px;
+            text-align: left;
+        
+        }
+
+
+     
+
+}
+
+
+
+
+.card-header{
+
+border-color: #51B57B;
+
+
+}
+
+
+
+.btn-link{
+
+
+
+    font-family:CerebriSans-Boldimport;
+    color:#68E79D;
+
+
+}
+
+
+
+.btn-link:hover{
+
+
+    font-family:CerebriSans-Boldimport !important;
+    color:#636363 !important;
+    text-decoration: none !important;
+
+}
+
+
+.mrg-top-question{
+
+margin-top: 150px;
+margin-bottom: 200px;
+
+
+}
+
+
+
+#marh{
+
+margin-bottom: 60px !important;
+
+
+}
+
+
+.flat-card{
+
+background-color: whitesmoke !important;
+width: 80% !important;
+height: 50vh !important;
+
+
+}
+
+
+.is{
+
+margin-top: 60px;
+margin-bottom: 50px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+
+.tablet-header{
+
+    font-family:CerebriSans-Boldimport !important;
+    color:#636363 !important;
+    text-align: center;
+    font-size: 15px;
+}
+
+.tablet-class{
+    font-family:CerebriSans-Boldimport !important;
+    font-size: 10px;
+    color: #51B57B;
+    text-align: center;
+
+
+}
+
+.tablet-short{
+
+    font-family:CerebriSans-Lightimport !important;
+    font-size: 13px;
+    text-align: center;
+
+
+}
+
+
+.tablet-body{
+    font-family:CerebriSans-Lightimport !important;
+    text-align: center;
+    font-size: 10.5px;
+    line-height: 23px;
+    padding: 20px 30px 20px 30px;
+
+
+}
