@@ -12,7 +12,7 @@
 .h3-top{
 
     font-family:CerebriSans-Boldimport;
-    color:#68E79D;
+    color:#51B57B;
     font-weight: 700;
     font-style: normal;
     line-height: 70px;
@@ -27,7 +27,7 @@
 .h3-top-2{
 
     font-family:CerebriSans-Boldimport;
-    color:#68E79D;
+    color:#51B57B;
     font-weight: 700;
     font-style: normal;
     line-height: 70px;
@@ -43,7 +43,7 @@
 .h3-top-3{
 
     font-family:CerebriSans-Boldimport;
-    color:#68E79D;
+    color:#51B57B;
     font-weight: 700;
     font-style: normal;
     line-height: 70px;
@@ -70,7 +70,7 @@ html{
 .why{
 
     font-family:CerebriSans-Boldimport;
-    color:#68E79D;
+    color:#51B57B;
     font-weight: 700;
     font-style: normal;
     line-height: 70px;
@@ -319,7 +319,7 @@ margin-top: 100px !important;
 
 .footer-color{
 
-background-color:#C5E1D8;
+background-color:#51B57B;
 
 
 }
@@ -336,6 +336,7 @@ background-color:#C5E1D8;
     line-height: 34px;
     text-align: center;
     margin-top: 100px;
+    color: white;
 
 }
 
@@ -347,7 +348,7 @@ background-color:#C5E1D8;
     font-weight:bolder;
     font-size: 16px;
     line-height: 26px;
-    color:#636363;
+    color:white;
     text-align: center;
     margin-top: 35px;
     font-style: normal;
@@ -712,9 +713,24 @@ margin-bottom: 50px;
 display: block;
 margin-left: auto;
 margin-right: auto;
-
+width: 200px;
 
 }
+
+
+
+.is-2{
+
+    margin-top: 60px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 160px;
+    
+    
+    }
+
 
 
 .tablet-header{
