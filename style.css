@@ -82,6 +82,32 @@ html{
 }
 
 
+
+.why-2{
+
+    font-family:CerebriSans-Boldimport;
+    color:#51B57B;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 70px;
+    font-size: 35px;
+    margin-top: -30px;
+
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+
+.img-fluid-2{
+
+margin-top: 60px;
+width: 100%;
+height:auto;
+
+}
+
+
 .challenge{
     font-family:CerebriSans-Boldimport;
     Color:#000000;
