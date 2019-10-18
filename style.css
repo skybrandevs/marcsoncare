@@ -235,7 +235,7 @@ line-height: 25px;
 
 .btn-marcson{
 
-    background-color: #252525;
+    background-color: #51B57B;
     border: transparent;
     height: 70px;
     width: 150px;
@@ -250,7 +250,7 @@ line-height: 25px;
 
 .btn-marcson-call{
 
-    background-color: #252525;
+    background-color:#51B57B;
     border: transparent;
     height: 70px;
     width:80%;
@@ -277,14 +277,14 @@ margin-top: 100px !important;
 
 .btn-marcson:hover{
 
- background-color: #68E79D;
+ background-color:#252525;
 
 }
 
 
 .btn-marcson-call:hover{
 
-    background-color: #68E79D;
+    background-color: #252525;
    
    }
    
@@ -293,7 +293,7 @@ margin-top: 100px !important;
 
 .btn-marcson-2{
 
-    background-color: #252525;
+    background-color:#51B57B;
     border: transparent;
     height: 70px;
     width: 150px;
@@ -306,7 +306,7 @@ margin-top: 100px !important;
 
 .btn-marcson-2:hover{
 
-    background-color:#68E79D;
+    background-color:#252525;
     border: transparent;
     height: 70px;
     width: 150px;
@@ -373,7 +373,7 @@ list-style: none !important;
 font-family:CerebriSans-Boldimport;
 font-style: normal;
 text-align:center !important;
-color: #252525;
+color:white;
 margin-top:30px;
 font-weight: lighter;
 line-height: 35px;
